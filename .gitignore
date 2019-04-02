@@ -3,4 +3,4 @@
 .RData
 .Ruserdata
 .secret
-/src/data/gapminder
+/src/data/gapminder/raw
